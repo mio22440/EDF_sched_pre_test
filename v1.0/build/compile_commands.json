@@ -1,0 +1,12 @@
+[
+{
+  "directory": "F:/code/EDF_sched_pre_test/v1.0/build",
+  "command": "C:/MinGW/bin/gcc.exe   -g -o CMakeFiles/edf.dir/edf.c.obj -c F:/code/EDF_sched_pre_test/v1.0/edf.c",
+  "file": "F:/code/EDF_sched_pre_test/v1.0/edf.c"
+},
+{
+  "directory": "F:/code/EDF_sched_pre_test/v1.0/build",
+  "command": "C:/MinGW/bin/gcc.exe   -g -o CMakeFiles/edf.dir/main.c.obj -c F:/code/EDF_sched_pre_test/v1.0/main.c",
+  "file": "F:/code/EDF_sched_pre_test/v1.0/main.c"
+}
+]
